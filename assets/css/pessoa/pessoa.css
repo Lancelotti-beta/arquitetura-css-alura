@@ -2,3 +2,15 @@
     display: flex;
     flex-direction: column;
 }
+
+@media screen and (min-width: 0) {
+    .pessoa {
+        padding-bottom: 3rem; 
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .pessoa {
+        padding-bottom: 0; 
+    }
+}
