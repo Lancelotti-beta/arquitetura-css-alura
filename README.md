@@ -5,7 +5,7 @@ curso de arquitetura da Alura.
  ## Iniciando o projeto  
 
  - Organizar a estruturar os arquivos css do projeto;
- - Metodologia Atomic Design.
+ - Metodologia **Atomic Design**.
 
  > um arquivo CSS para cada elemento da página tem um nome: Atomic Design, que consiste, basicamente, em um modelo de organizar os componentes, pastas e a estrutura do nosso CSS a partir do princípio de átomos, onde um átomo é toda tag HTML.
 
